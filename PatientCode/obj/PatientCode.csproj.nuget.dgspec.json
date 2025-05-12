@@ -1,36 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\calvo\\Documents\\Universidad\\Certificacion I\\PatientCode\\PatientCode\\PatientCode.csproj": {}
+    "C:\\git_repos\\final_certi\\PatientCode\\PatientCode\\PatientCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\calvo\\Documents\\Universidad\\Certificacion I\\PatientCode\\PatientCode\\PatientCode.csproj": {
+    "C:\\git_repos\\final_certi\\PatientCode\\PatientCode\\PatientCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\calvo\\Documents\\Universidad\\Certificacion I\\PatientCode\\PatientCode\\PatientCode.csproj",
+        "projectUniqueName": "C:\\git_repos\\final_certi\\PatientCode\\PatientCode\\PatientCode.csproj",
         "projectName": "PatientCode",
-        "projectPath": "C:\\Users\\calvo\\Documents\\Universidad\\Certificacion I\\PatientCode\\PatientCode\\PatientCode.csproj",
-        "packagesPath": "C:\\Users\\calvo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\calvo\\Documents\\Universidad\\Certificacion I\\PatientCode\\PatientCode\\obj\\",
+        "projectPath": "C:\\git_repos\\final_certi\\PatientCode\\PatientCode\\PatientCode.csproj",
+        "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
+        "outputPath": "C:\\git_repos\\final_certi\\PatientCode\\PatientCode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\calvo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -43,16 +44,15 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.200"
+        }
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
+            "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[9.0.4, )"
+              "version": "[8.1.1, )"
             }
           },
           "imports": [
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
