@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\calvo\\Documents\\Universidad\\Certificacion I\\PatientCode\\PatientCode\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{404CC2A0-5219-4D45-B288-A7725D83D19C}|PatientCode.csproj|c:\\users\\calvo\\documents\\universidad\\certificacion i\\patientcode\\patientcode\\dtos\\patientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404CC2A0-5219-4D45-B288-A7725D83D19C}|PatientCode.csproj|solutionrelative:dtos\\patientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{404CC2A0-5219-4D45-B288-A7725D83D19C}|PatientCode.csproj|c:\\users\\calvo\\documents\\universidad\\certificacion i\\patientcode\\patientcode\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{404CC2A0-5219-4D45-B288-A7725D83D19C}|PatientCode.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PatientRequest.cs",
+              "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Certificacion I\\PatientCode\\PatientCode\\DTOs\\PatientRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\PatientRequest.cs",
+              "ToolTip": "C:\\Users\\calvo\\Documents\\Universidad\\Certificacion I\\PatientCode\\PatientCode\\DTOs\\PatientRequest.cs",
+              "RelativeToolTip": "DTOs\\PatientRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T00:38:57.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Patient.cs",
               "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Certificacion I\\PatientCode\\PatientCode\\Models\\Patient.cs",
               "RelativeDocumentMoniker": "Models\\Patient.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Certificacion I\\PatientCode\\PatientCode\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -52,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\calvo\\Documents\\Universidad\\Certificacion I\\PatientCode\\PatientCode\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
