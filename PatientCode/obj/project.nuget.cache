@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "D2NIz0CFgf8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\calvo\\Documents\\Universidad\\Certificacion I\\PatientCode\\PatientCode\\PatientCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\calvo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\calvo\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
